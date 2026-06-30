@@ -12,11 +12,23 @@
 ![](https://streak-stats.demolab.com/?user=Shreesh-22&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreesh-22&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreesh-22/Shreesh-22/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreesh-22/Shreesh-22/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shreesh-22/Shreesh-22/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shreesh-22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shreesh-22&icon=0&color=0)](https://visitcount.itsvg.in)
