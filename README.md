@@ -1,6 +1,6 @@
 # 💫 About Me:
 🛠️ AI4ALL Fellow — deploying a BERT-based NLP model to detect depression-related language in social media text, from data pipeline through bias analysis to a live web app.<br><br>
-🎓 Computer Science student (Honors College) at UT San Antonio, incoming intern with the University of Texas System Office of the CIO through the Bold Careers Program.<br><br>
+🎓 Computer Science student (Honors College) at UT San Antonio, incoming intern with the University of Texas System Office of the CIO .<br><br>
 👯 Looking to collaborate on real ML/AI projects — especially ones solving an overlooked problem for a specific, underserved group of people.<br><br>
 🔍 Currently hunting for the right problem to eventually build a company around, not chasing an idea for its own sake.<br><br>
 🌱 Learning full-stack development, ML pipelines, and how to take something from a working prototype to something people actually depend on.<br><br>
