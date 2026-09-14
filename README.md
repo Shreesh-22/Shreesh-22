@@ -1,5 +1,10 @@
 # 💫 About Me:
-🛠️ I’m currently working on Shepherd, an AI engagement platform for churches and mission-driven organizations.<br><br>👯 I’m looking to collaborate on AI products, nonprofit tech, church tech, and tools that help communities grow.<br><br>🤝 I’m looking for help with scaling Shepherd, onboarding more organizations, and improving AI-powered outreach workflows.<br><br>🌱 I’m currently learning full-stack development, AI agents, data pipelines, and how to turn products into real startups.<br><br>💬 Ask me about Shepherd, Quickeer, VSIQ, AI tools, startups, hackathons, or building products as a student founder.
+🛠️ AI4ALL Fellow — deploying a BERT-based NLP model to detect depression-related language in social media text, from data pipeline through bias analysis to a live web app.<br><br>
+🎓 Computer Science student (Honors College) at UT San Antonio, incoming intern with the University of Texas System Office of the CIO through the Bold Careers Program.<br><br>
+👯 Looking to collaborate on real ML/AI projects — especially ones solving an overlooked problem for a specific, underserved group of people.<br><br>
+🔍 Currently hunting for the right problem to eventually build a company around, not chasing an idea for its own sake.<br><br>
+🌱 Learning full-stack development, ML pipelines, and how to take something from a working prototype to something people actually depend on.<br><br>
+💬 Ask me about AI4ALL, BERT/NLP projects, data pipelines, or what it's actually like searching for a real problem instead of forcing one.
 
 
 
